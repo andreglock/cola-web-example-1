@@ -13,7 +13,7 @@ git|run git commands
 
 <hr>
 
-![Linda is cute](https://raw.githubusercontent.com/andreglock/cola-web-example-1/main/linda.jpg "A dog in its habitat")
+![Linda is cute](../linda.jpg "A dog in its habitat")
 
 <hr>
 
