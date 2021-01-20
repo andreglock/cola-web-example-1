@@ -18,3 +18,5 @@ git|run git commands
 <hr>
 
 :carrot: Dogs like carrots and cucumbers :cucumber:
+
+:beer: Dogs can't drink beer because they are allergic to hop
